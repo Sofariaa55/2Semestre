@@ -1,0 +1,5 @@
+Formas de armazenar dados do computador 
+- SQL
+- Struture Query Language
+Linguagem de consulta estruturais 
+Coluna
